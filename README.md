@@ -1,4 +1,5 @@
 # Ultra Instinct / N
+* This script is in BETA.
 
 ## Source:
 ```lua
