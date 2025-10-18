@@ -5,6 +5,7 @@
 
 ## Source:
 ```lua
+--getgenv().Theme = "Cyberpunk"; -- // print(table.concat(getgenv().ThemeNames(), ", "));
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/UltraInstinct/home/N.lua"))();
 ```
 
